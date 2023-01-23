@@ -1,3 +1,9 @@
+.title {
+  color: #22b5bf;
+  font-size: 50px;
+  font-weight: 500;
+}
+
 .App {
   text-align: center;
 }
